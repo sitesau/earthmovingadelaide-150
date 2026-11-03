@@ -1,0 +1,22 @@
+{
+  "wheel_id": 701,
+  "structure": "umbrella",
+  "slug": "earthmovingadelaide-150",
+  "project": "earthmoving-services-adelaide-c48ab4be1b3fb9a7c93bbeaaaea586a2f",
+  "parent_t1_ref": "earthmovingadelaide-001",
+  "node_role": "buffer",
+  "money_target": "earthmovingadelaide.com.au",
+  "primary_kw": "earthmoving services adelaide",
+  "intended_url": "https://sitesau.github.io/earthmovingadelaide-150/",
+  "tier": "T2",
+  "writeback_nonce": "335b2a5e5b4bd2c8",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/earthmoving-services-adelaide-001/",
+      "anchor": "earthmoving services adelaide explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
